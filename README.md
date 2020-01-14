@@ -1,8 +1,8 @@
-# React Config Professional
+# React Config Professional   ⚛️
 
 - Preparación de un entorno de trabajo profesional con React.js
 
-**Table of Contents**
+**Tabla de Contenido**
 
 * [Configuración Básica de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#configuración-básica-de-react)
 * [Instalación de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalación-de-react)
@@ -289,7 +289,7 @@ Utilizaremos las relgas de Airbnb para la construccion de proyectos
 En la raiz de nuestro proyecto creamos el archivo **.eslintrc**
 Dentro de este archivo copiamos el siguiente código:
 
-[Links](https://gist.github.com/NetoCruz/a6a64044809b63588cffae65736a8e76
+[Eslint](https://gist.github.com/NetoCruz/a6a64044809b63588cffae65736a8e76
 )
 
 Con esto podemos lintar nuestro código y trabajar mejor.
@@ -300,7 +300,7 @@ En la raiz de nuestro proyecto creamos el archivo **.gitignore** su función es 
 
 Dentro de este archivo copiamos el siguiente código que se encuentra en un gist:
 
-[Links](https://gist.github.com/NetoCruz/5ef207cb2e2ed03e1763bda2bd04d149
+[Gitignore](https://gist.github.com/NetoCruz/5ef207cb2e2ed03e1763bda2bd04d149
 )
 
 
