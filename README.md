@@ -3,7 +3,7 @@
 
 **Table of Contents**
 
-* [Configuración Básica de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/link)
+* [Configuración Básica de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#configuracion-basica-de-react)
 * [Instalación de React](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
 * [Creando componente de prueba](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
 * [Instalando Babel](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
