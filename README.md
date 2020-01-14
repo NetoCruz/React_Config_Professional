@@ -1,18 +1,19 @@
+# React Config Professional
 
--Preparación de un entorno de trabajo profesional con React.js
+- Preparación de un entorno de trabajo profesional con React.js
 
 **Table of Contents**
 
 * [Configuración Básica de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#configuración-básica-de-react)
-* [Instalación de React](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Creando componente de prueba](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Instalando Babel](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Instalando Webpack](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Instalando WebpackDevServer](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Instalando Sass](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Creando la carpeta de nuestros estilos](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Configurando Eslint](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
-* [Agregando gitignore](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
+* [Instalación de React](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalación-de-react)
+* [Creando componente de prueba](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#creando-componente-de-prueba)
+* [Instalando Babel](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-babel)
+* [Instalando Webpack](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-webpack)
+* [Instalando WebpackDevServer](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-webpackdevserver)
+* [Instalando Sass](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-sass)
+* [Creando la carpeta de nuestros estilos](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#creando-la-carpeta-de-nuestros-estilos)
+* [Configurando Eslint](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#configurando-eslint)
+* [Agregando gitignore](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#agregando-gitignore)
 
 ## [Configuración Básica de React](link)
 
@@ -39,13 +40,13 @@ touch /src **index.js** -- *entrada de nuestro proyecto*
 En la carpeta /public/ creamos el archivo
 touch /public **index.html**  --
 
-## Instalación de React
+## [Instalación de React](link)
 En la terminal ingresamos:
 ```javascript
 npm install react react-dom
 ```
 
-## Creando componente de prueba
+## [Creando componente de prueba](link)
 
 En nuestro archivo src/**index.js** escribimos:
 ```javascript
@@ -69,7 +70,7 @@ Ahora, en el public/**index.html** colocamos:
     </body>
 </html>
 ```
-## Instalando Babel
+## [Instalando Babel](link)
 En la terminal ingresamos:
 ```javascript
 npm install @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
@@ -90,7 +91,7 @@ Dentro de éste creamos un objeto con lo siguiente:
 }
 ```
 
-## Instalando Webpack
+## [Instalando Webpack](link)
 En nuestra terminal ingresamos
 ```javascript
 npm install webpack webpack-cli html-webpack-plugin html-loader  --save-dev
@@ -155,7 +156,7 @@ npm run build
 ```
 Podremos ver que en la raiz de nuestro proyecto de ha creado la carpeta /**dist** donde trendremos nuestro archivos compilados
 
-## Instalando WebpackDevServer
+## [Instalando WebpackDevServer](link)
 En la terminal:
 ```javascript 
 npm install  webpack-dev-server --save-dev
@@ -177,7 +178,7 @@ npm run start
 ```
 Con esto podemos abrir un entorno de desarrollo local de nuestro proyecto, además de contar con la ventaja de que los cambios que vayamos realizando se cargarán al instante.
 
-## Instalación de SASS
+## [Instalación de SASS](link)
 
 Ingresamos en la terminal 
 ```javascript 
@@ -267,7 +268,7 @@ module.exports = {
 
 
 ```
-### Creando las carpetas de nuestros estilos
+### [Creando las carpetas de nuestros estilos](link)
 En la carpeta /**src** creamos:
 /**assets** y dentro de ésta:
 /**styles**
@@ -277,7 +278,7 @@ dentro de /styles creamos un archivo:
 Quedando de la siguiente manera
 /src/assets/styles/App.scss
 
-## Instalando ESLINT
+## [Instalando ESLINT](link)
 
 Terminal
 ```javascript 
@@ -293,7 +294,7 @@ Dentro de este archivo copiamos el siguiente código:
 
 Con esto podemos lintar nuestro código y trabajar mejor.
 
-## Creando nuestro .gitignore
+## [Creando nuestro gitignore](link)
 
 En la raiz de nuestro proyecto creamos el archivo **.gitignore** su función es evitar subir archivos que puedan comprometer las seguiridad de nuestro proyecto.
 
