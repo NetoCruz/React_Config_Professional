@@ -11,7 +11,7 @@
 * [Instalando Webpack](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-webpack)
 * [Instalando WebpackDevServer](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-webpackdevserver)
 * [Instalando Sass](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#instalando-sass)
-* [Creando la carpeta de nuestros estilos](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#creando-la-carpeta-de-nuestros-estilos)
+* [Creando las carpetas de nuestros estilos](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#creando-las-carpetas-de-nuestros-estilos)
 * [Configurando Eslint](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#configurando-eslint)
 * [Agregando gitignore](https://github.com/NetoCruz/React_Config_Professional/blob/master/README.md#agregando-gitignore)
 
@@ -178,7 +178,7 @@ npm run start
 ```
 Con esto podemos abrir un entorno de desarrollo local de nuestro proyecto, además de contar con la ventaja de que los cambios que vayamos realizando se cargarán al instante.
 
-## [Instalación de SASS](link)
+## [Instalando SASS](link)
 
 Ingresamos en la terminal 
 ```javascript 
@@ -278,7 +278,7 @@ dentro de /styles creamos un archivo:
 Quedando de la siguiente manera
 /src/assets/styles/App.scss
 
-## [Instalando ESLINT](link)
+## [Configurando ESLINT](link)
 
 Terminal
 ```javascript 
@@ -294,7 +294,7 @@ Dentro de este archivo copiamos el siguiente código:
 
 Con esto podemos lintar nuestro código y trabajar mejor.
 
-## [Creando nuestro gitignore](link)
+## [Agregando gitignore](link)
 
 En la raiz de nuestro proyecto creamos el archivo **.gitignore** su función es evitar subir archivos que puedan comprometer las seguiridad de nuestro proyecto.
 
