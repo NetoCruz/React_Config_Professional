@@ -14,7 +14,7 @@
 * [Configurando Eslint](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
 * [Agregando gitignore](https://github.com/NetoCruz/React_Config_Professional/edit/master/README.md##configuración-básica-de-react)
 
-## Configuración Básica de React
+## [Configuración Básica de React](link)
 
 ### Carpetas y archivos principales
 
