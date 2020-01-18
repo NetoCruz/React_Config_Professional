@@ -99,7 +99,7 @@ npm install webpack webpack-cli html-webpack-plugin html-loader  --save-dev
 ```
 
 En la raiz de nuestro proyecto creamos el siguiente archivo:
-/**.webpack.config.js**
+/**webpack.config.js**
 Y dentro de el colocamos lo siguiente
 ```javascript
 const path = require('path');
